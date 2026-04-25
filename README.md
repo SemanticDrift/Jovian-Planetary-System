@@ -12,7 +12,7 @@
 
 ## What This Does
 
-Extends the Harmonic Resonance Mechanics framework to the Jovian system. Using exact rational arithmetic and a harmonic resolution of 2^-8, the orbital distances of Jupiter's rings and Galilean moons are derived with a mean accuracy of 99.93%, without empirical fitting. The 1/3 structural invariant is validated across Jupiter, Saturn, and the Earth/Moon system.
+Extends the Harmonic Orbital Mechanics framework to the Jovian system. Using exact rational arithmetic and a harmonic resolution of 2^-8, the orbital distances of Jupiter's rings and Galilean moons are derived with a mean accuracy of 99.93%, without empirical fitting. The 1/3 structural invariant is validated across Jupiter, Saturn, and the Earth/Moon system.
 
 ---
 
